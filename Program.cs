@@ -11,6 +11,7 @@ namespace HelloGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
+            Console.WriteLine("This is in a branch");
         }
     }
 }
